@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Atlasdev/static/css/main.308b9e38.css",
-    "main.js": "/Atlasdev/static/js/main.d780802f.js",
+    "main.js": "/Atlasdev/static/js/main.cccf9486.js",
     "static/media/Sergeev.jpg": "/Atlasdev/static/media/Sergeev.72286590eb5fa02de672.jpg",
     "static/media/Raspaev.jpg": "/Atlasdev/static/media/Raspaev.bbd5cddfc0c8201faf0b.jpg",
     "static/media/chatsModal.png": "/Atlasdev/static/media/chatsModal.79b5380658eb1e96a7f1.png",
@@ -30,10 +30,10 @@
     "index.html": "/Atlasdev/index.html",
     "static/media/logo-fog.svg": "/Atlasdev/static/media/logo-fog.a81ab0bb68007dd288cb76f504e092b9.svg",
     "main.308b9e38.css.map": "/Atlasdev/static/css/main.308b9e38.css.map",
-    "main.d780802f.js.map": "/Atlasdev/static/js/main.d780802f.js.map"
+    "main.cccf9486.js.map": "/Atlasdev/static/js/main.cccf9486.js.map"
   },
   "entrypoints": [
     "static/css/main.308b9e38.css",
-    "static/js/main.d780802f.js"
+    "static/js/main.cccf9486.js"
   ]
 }
